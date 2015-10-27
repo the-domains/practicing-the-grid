@@ -1,0 +1,23 @@
+name: Practicing the Grid
+favicon: null
+layout_spectrum: 0.9016879196278751
+typography_spectrum: 0.20558067224919796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6602145440410823
+  lightness: 0.7319270395673811
+  saturation: 0.05194403906352818
+  rhythmicContrast: 0.762849600519985
+purpose: []
