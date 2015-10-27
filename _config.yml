@@ -2,6 +2,7 @@ name: Practicing the Grid
 favicon: null
 layout_spectrum: 0.9016879196278751
 typography_spectrum: 0.20558067224919796
+title: 'This is my site for practicing on the grid. '
 cta:
   domain: null
   bucket: null
