@@ -1,29 +1,41 @@
-name: Practicing the Grid
-favicon: null
-layout_spectrum: 0.62838
-typography_spectrum: 0.52568
 title: 'This is my site for practicing on the grid. '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8061225
+  brandStrength: 0.2164339
+  lightness: 0.8147153
+  brandColors:
+    - '#2F3239'
+    - '#FFFFFF'
+    - '#A5AAAB'
+    - '#CF435B'
+    - '#C7DF5C'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Practicing the Grid
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#68656b'
-    - '#000000'
-    - '#404040'
-    - '#800080'
-    - '#000080'
-  brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.6772288
+layout_spectrum: 0.8888292
